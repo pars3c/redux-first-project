@@ -1,16 +1,18 @@
-import characters_json from '../data/characters.json';
-import { ADD_CHARACTER } from '../actions';
 
+import { 
+    ADD_TODO,
+    TOGGLE_TODO,
+    SET_VISIBILITY_FILTER,
+    setVisibilityFilter,
+} from '../actions';
 
-function characters (state = characters_json, action) {
-    switch (action.type) {
-        case ADD_CHARACTER:
-            /* accept every character except the choosen one|action.id */
-            let characters = state.filter( item => item.id !== action.id);
-            return characters;
+const { SHOW_ALL } = VisibilityFilters;
+
+function visibilityFilter(state = SHOW_ALL, action) {
+    switch(action.type) {
+        case SET_VISIBILITY_FILTER:
+            return action.filter;
         default:
             return state;
     }
 }
-
-export default characters;
