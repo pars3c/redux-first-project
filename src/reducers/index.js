@@ -1,18 +1,12 @@
+import { combineReducers } from 'redux';
+import characters from './charactersReducer';
+import heroes from './heroesReducer';
 
-import { 
-    ADD_TODO,
-    TOGGLE_TODO,
-    SET_VISIBILITY_FILTER,
-    setVisibilityFilter,
-} from '../actions';
 
-const { SHOW_ALL } = VisibilityFilters;
 
-function visibilityFilter(state = SHOW_ALL, action) {
-    switch(action.type) {
-        case SET_VISIBILITY_FILTER:
-            return action.filter;
-        default:
-            return state;
-    }
-}
+const rootReducer = combineReducers({
+    characters,
+    heroes,
+})
+
+export default rootReducer;
