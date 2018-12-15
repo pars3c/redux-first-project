@@ -8,7 +8,15 @@ Each hero has **strength**, **intelligence** and **speed**. The more members you
 ## Technologies used
 Node, ReactJS, Javascript, HTML, CSS and Bootstrap
 
-![alt text](./public/src/assets/aderito.jpg "Logo Title Text 1")
+
+<img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/aderito.jpg" alt="drawing" width="200" height="300" />
+
+Hey everyone! My name is Adérito Xavier ([@pars3c](https://github.com/pars3c)), I am a Full Stack Developer, and a Data Scientist on my freetime.
+
+My passion for programming started when I was 18 years old, when I read '2001 A Space Odyssey' for the the first time. It captivated me to think about the future and evolution.
+
+Since then I never stopped fighting for that passion. Right now my main focus is on becoming Data Scientist, making Python my primary tool.
+
 
 ## Instructions
  * Open the terminal in the folder of preference for the project
@@ -16,7 +24,7 @@ Node, ReactJS, Javascript, HTML, CSS and Bootstrap
  * Go to the project folder in your terminal
  * Run `npm install` and wait until it's completed
  * Now run `npm start`, and voilá!
-https://media.licdn.com/dms/image/C4D03AQFpZ-SzjGZfiw/profile-displayphoto-shrink_200_200/0?e=1550102400&v=beta&t=n4qjnZW71mfBWrsueVSTZzQqQ4S5gvIU2WyOAuI1Amk
+
 
 ## Objectives of the this project
 
