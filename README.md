@@ -18,6 +18,8 @@ My passion for programming started when I was 18 years old, when I read '2001 A 
 Since then I never stopped fighting for that passion. Right now my main focus is on becoming Data Scientist, making Python my primary tool.
 
 
+
+
 ## Instructions
  * Open the terminal in the folder of preference for the project
  * Clone the git repo `git clone https://github.com/pars3c/redux-first-project.git`
