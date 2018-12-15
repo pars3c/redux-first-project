@@ -9,7 +9,7 @@ Each hero has **strength**, **intelligence** and **speed**. The more members you
 Node, ReactJS, Javascript, HTML, CSS and Bootstrap
 
 
-<img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/aderito.jpg" alt="drawing" width="200" height="300" />
+<img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/aderito.jpg" alt="Aderito Xavier" width="200" height="300" />
 
 Hey everyone! My name is Adérito Xavier ([@pars3c](https://github.com/pars3c)), I am a Full Stack Developer, and a Data Scientist on my freetime.
 
@@ -17,7 +17,9 @@ My passion for programming started when I was 18 years old, when I read '2001 A 
 
 Since then I never stopped fighting for that passion. Right now my main focus is on becoming Data Scientist, making Python my primary tool.
 
-
+<a href="https://www.linkedin.com/in/believer-of-the-monolith/">
+<img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/linkedin-icon.png" alt="Aderito Xavier" width="50" height="50" />
+</a>
 
 
 ## Instructions
