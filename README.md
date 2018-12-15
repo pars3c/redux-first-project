@@ -27,21 +27,21 @@ Since then I never stopped fighting for that passion. Right now my main focus is
 </a>
 
 
-<a href="https://www.linkedin.com/in/believer-of-the-monolith/">
+<a href="https://datacamp.com/profile/aderito-xavier">
 <img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/data-camp-icon.png" alt="Aderito Xavier" width="70" height="50" style="margin-right:30px"/>
 </a>
 
 
-<a href="https://www.linkedin.com/in/believer-of-the-monolith/">
+<a href="https://www.hackerrank.com/aderito_xavier">
 <img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/hackerrank-icon.png" alt="Aderito Xavier" width="50" height="50" style="margin-right:30px"/>
 </a>
 
 
-<a href="https://www.linkedin.com/in/believer-of-the-monolith/">
+<a href="https://www.kaggle.com/wydtron/">
 <img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/kaggle-icon.png" alt="Aderito Xavier" width="100" height="50" style="margin-right:30px"/>
 </a>
 
-<a href="https://www.linkedin.com/in/believer-of-the-monolith/">
+<a href="https://medium.com/@aderito_xavier">
 <img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/medium-icon.jpg" alt="Aderito Xavier" width="80" height="50" style="margin-right:30px"/>
 </a>
 
