@@ -18,7 +18,31 @@ My passion for programming started when I was 18 years old, when I read '2001 A 
 Since then I never stopped fighting for that passion. Right now my main focus is on becoming Data Scientist, making Python my primary tool.
 
 <a href="https://www.linkedin.com/in/believer-of-the-monolith/">
-<img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/linkedin-icon.png" alt="Aderito Xavier" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/linkedin-icon.png" alt="Aderito Xavier" width="50" height="50" style="margin-right:30px"/>
+</a>
+
+
+<a href="https://github.com/pars3c">
+<img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/github-icon.png" alt="Aderito Xavier" width="50" height="50" style="margin-right:30px"/>
+</a>
+
+
+<a href="https://www.linkedin.com/in/believer-of-the-monolith/">
+<img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/data-camp-icon.png" alt="Aderito Xavier" width="70" height="50" style="margin-right:30px"/>
+</a>
+
+
+<a href="https://www.linkedin.com/in/believer-of-the-monolith/">
+<img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/hackerrank-icon.png" alt="Aderito Xavier" width="50" height="50" style="margin-right:30px"/>
+</a>
+
+
+<a href="https://www.linkedin.com/in/believer-of-the-monolith/">
+<img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/kaggle-icon.png" alt="Aderito Xavier" width="100" height="50" style="margin-right:30px"/>
+</a>
+
+<a href="https://www.linkedin.com/in/believer-of-the-monolith/">
+<img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/medium-icon.jpg" alt="Aderito Xavier" width="80" height="50" style="margin-right:30px"/>
 </a>
 
 
