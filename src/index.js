@@ -12,7 +12,7 @@ console.log(store.getState());
 
 
 store.subscribe(() => console.log('store', store.getState()));
-store.dispatch(addCharacterById(2))
+/*store.dispatch(addCharacterById(2))*/
 ReactDOM.render(
     <Provider store={store}>
         <App />
