@@ -15,7 +15,9 @@ Hey everyone! My name is Adérito Xavier ([@pars3c](https://github.com/pars3c)),
 
 My passion for programming started when I was 18 years old, when I read '2001 A Space Odyssey' for the the first time. It captivated me to think about the future and evolution.
 
-Since then I never stopped fighting for that passion. Right now my main focus is on becoming Data Scientist, making Python my primary tool.
+Since then I never stopped fighting for that passion. Right now my main focus is on becoming Data Scientist.
+
+## Check my Projects, Blog Posts and Career in:
 
 <a href="https://www.linkedin.com/in/believer-of-the-monolith/">
 <img src="https://raw.githubusercontent.com/pars3c/redux-first-project/master/src/assets/linkedin-icon.png" alt="Aderito Xavier" width="50" height="50" style="margin-right:30px"/>
