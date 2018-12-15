@@ -12,13 +12,13 @@ class SquadStats extends Component {
 
     intelligence () {
         let intelligence = 0;
-        this.props.intelligence.forEach(hero => intelligence += hero.intelligence);
+        this.props.heroes.forEach(hero => intelligence += hero.intelligence);
         return intelligence;
     }
 
     speed () {
         let speed = 0;
-        this.props.speed.forEach(hero => speed += hero.speed);
+        this.props.heroes.forEach(hero => speed += hero.speed);
         return speed;
     }
     render() {
