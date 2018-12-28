@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # Super Squad App
 
 Super Squad App is a ReactJS learning project that allows you to choose your favorite super heroes and make your own Super Hero Squad. 
